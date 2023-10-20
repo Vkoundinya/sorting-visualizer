@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sorting-visualizer/static/css/main.6d3f40d0.css",
+    "main.js": "/sorting-visualizer/static/js/main.d61f971f.js",
+    "static/media/homepage.jpg": "/sorting-visualizer/static/media/homepage.c1aae1303dce4ea06edc.jpg",
+    "static/media/bubbleSort.png": "/sorting-visualizer/static/media/bubbleSort.eb6650a7e92038d4c118.png",
+    "static/media/dp.png": "/sorting-visualizer/static/media/dp.915020722adb61b7e170.png",
+    "static/media/mergeSort.png": "/sorting-visualizer/static/media/mergeSort.482d9f1ae7c7152708a6.png",
+    "static/media/mergeSort2.png": "/sorting-visualizer/static/media/mergeSort2.21f68f6e89ab84175ce3.png",
+    "static/media/quickSort2.png": "/sorting-visualizer/static/media/quickSort2.2c597aca9b66757204fc.png",
+    "static/media/selectionSort.png": "/sorting-visualizer/static/media/selectionSort.92a57335bb1849a95eb1.png",
+    "static/media/insertionSort.png": "/sorting-visualizer/static/media/insertionSort.9469618331e3b210fc34.png",
+    "static/media/quickSort.png": "/sorting-visualizer/static/media/quickSort.4591ede1c612b974ac75.png",
+    "index.html": "/sorting-visualizer/index.html",
+    "main.6d3f40d0.css.map": "/sorting-visualizer/static/css/main.6d3f40d0.css.map",
+    "main.d61f971f.js.map": "/sorting-visualizer/static/js/main.d61f971f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d3f40d0.css",
+    "static/js/main.d61f971f.js"
+  ]
+}
